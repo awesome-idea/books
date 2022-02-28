@@ -5,6 +5,7 @@ export default defineConfig({
   title: "👀👀👀👀",
   description: "Vite & Vue powered static site generator.",
   lastUpdated: true,
+  base: '/books',
 
   themeConfig: {
     repo: "vuejs/vitepress",
